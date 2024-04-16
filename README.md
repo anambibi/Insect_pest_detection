@@ -1,5 +1,5 @@
 ****Insect Detection Web Application************
-This web-based application utilizes YOLOv5 for insect detection. It provides a user-friendly interface for users to upload images and detect insect pests in them.
+This web-based application utilizes YOLOv5 for insect detection. It provides a user-friendly interface for users to upload images and detect insect pests in them. //
 ******General Dependenices******
 ****Installation****
 Follow these steps to install and run the application:
