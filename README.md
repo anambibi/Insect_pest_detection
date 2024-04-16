@@ -5,7 +5,7 @@ This web-based application utilizes YOLOv5 for insect detection. It provides a u
 Follow these steps to install and run the application:
 
 **Clone This Repository:**
-git clone https://github.com/yourusername/insect-detection.git
+git clone https://github.com/anambibi/Insect_pest_detection.git
 cd insect-detection/yolo5-fastapi
 Install Client Dependencies:
 cd client
