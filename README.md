@@ -28,6 +28,6 @@ If you wish to train the YOLOv5 model yourself, follow these steps:
 Prepare Dataset:
 YOLOv5 models must be trained on labelled data in order to learn classes of objects in that data. Organize your dataset into yolo format using Roboflow.
 Train Model:
-python train.py --data data.yaml --cfg models/yolov5s.yaml --weights '' --batch-size 16 --epochs 50
+python train.py --data data.yaml --cfg models/yolov5s.yaml --weights '' --batch-size 16 --epochs 150
 Evaluate Model:
 python val.py --data data.yaml --weights runs/train/exp/weights/best.pt
