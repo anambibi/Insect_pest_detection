@@ -6,7 +6,8 @@ Follow these steps to install and run the application:
 
 **Clone This Repository:**
 git clone https://github.com/anambibi/Insect_pest_detection.git
-cd insect-detection/yolo5-fastapi
+ and unzip pest-detection-master.zip folder
+cd pest-detection-master/yolo5-fastapi
 Install Client Dependencies:
 cd client
 npm install
