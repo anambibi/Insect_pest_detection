@@ -5,7 +5,7 @@ This web-based application utilizes YOLOv5 for insect detection. It provides a u
 Follow these steps to install and run the application:
 **Clone This Repository:**
 git clone https://github.com/anambibi/Insect_pest_detection.git
- and unzip pest-detection-master.zip folder
+ and unzip yolov5_full code.zip folder
 
 If you wish to train the YOLOv5 model yourself, follow these steps:
 **Prepare Dataset:**
